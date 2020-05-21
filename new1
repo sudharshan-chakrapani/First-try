@@ -4,3 +4,6 @@ c=3
 
 print(a+b+c)
 print(a-b-c)
+
+print(a*b*b)
+print(a*b/c)
