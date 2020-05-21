@@ -8,7 +8,4 @@ print(a-b-c)
 x=a*b
 y=a/c
 
-print(x+y)
-
-
-new changes are made check it
+print(x+y) some lines are removed
